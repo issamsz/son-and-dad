@@ -1,0 +1,33 @@
+.interface{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6rem;
+ }
+
+ input{
+   width: 27.5rem;
+   height: 3.5rem;
+   font-size: 1.5rem;
+ }
+
+ .interface-one{
+   margin-left: 12.5rem;
+ }
+
+ .interface-to{
+   margin-right: 12.5rem;
+ }
+
+ .title{
+   margin-top: 5rem;
+   margin-left: 15rem;
+ }
+
+.cont{
+  margin-bottom: 8.5rem;
+}
+
+
+
+

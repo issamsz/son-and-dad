@@ -1,0 +1,14 @@
+.fils{
+  width: 25rem;
+  height: 20rem;
+  margin-left: 10rem;
+  margin-top: 5rem;
+  margin-bottom: 15rem;
+  border: solid 2px gray;
+}
+h3{
+  margin-left: 2rem;
+  margin-top: 7rem;
+  color: white;
+}
+
